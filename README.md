@@ -3,7 +3,7 @@
   <p>
     Ingeniería Electrónica · Universidad Santo Tomás
     <br>
-    <b>Didier Posse</b>
+    <b>Didier Posse y Oscar Grande</b>
     <br>
     <em>Primer punto</em>
   </p>
